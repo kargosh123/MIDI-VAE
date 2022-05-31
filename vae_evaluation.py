@@ -25,7 +25,7 @@ from keras.utils import to_categorical
 from sklearn.utils import class_weight
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
-from matplotlib2tikz import save as tikz_save
+from tikzplotlib import save as tikz_save
 import pretty_midi as pm
 import scipy
 

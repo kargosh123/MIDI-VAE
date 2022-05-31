@@ -24,7 +24,7 @@ import pretty_midi as pm
 import sys
 from import_midi import import_midi_from_folder
 import data_class
-from matplotlib2tikz import save as tikz_save
+from tikzplotlib import save as tikz_save
 
 
 # ----------------------------------------------------------------------------------------------

@@ -29,7 +29,7 @@ from keras.backend.tensorflow_backend import set_session
 import pretty_midi as pm
 import sys
 
-from matplotlib2tikz import save as tikz_save
+from tikzplotlib import save as tikz_save
 
 from import_midi import import_midi_from_folder
 
